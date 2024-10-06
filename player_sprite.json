@@ -1,0 +1,108 @@
+{
+    "bodyTypeName": "male",
+    "url": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light&sex=male&shadow=Shadow_shadow&eyes=Eyes_blue&wings=none&wound_brain=none&animation=jump&hair=Idol_blonde&shield=Heater_Shield_Base_brown&jacket=Collared_coat_brown_striped&overalls=Overalls_white&apron=none&sash=Narrow_sash_black&belt=Leather_Belt_brown&backpack=Jetpack_gold&backpack_straps=Straps_black&cargo=Jetpack_fins_gold&weapon=none&weapon_magic_crystal=none",
+    "spritesheets": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/spritesheets/",
+    "version": 1,
+    "datetime": "10/6/2024, 1:35:16 AM",
+    "credits": "Authors: drjamgo@hotmail.com, bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike), JaidynReiman, Matthew Krohn (makrohn), thecilekli, ElizaWy, macmanmatty, Johannes Sjölund (wulax), Nila122, Sander Frenken (castelonia)\n\n- shadow/adult/shadow.png: by drjamgo@hotmail.com. License(s): CC0. \n    - https://opengameart.org/content/shadow-for-lpc-sprite\n\n- body/bodies/male/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. see details at https://opengameart.org/content/lpc-character-bases; 'Thick' Male Revised Run/Climb by JaidynReiman (based on ElizaWy's LPC Revised)\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - https://opengameart.org/content/lpc-male-jumping-animation-by-durrani\n    - https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle\n    - https://opengameart.org/content/lpc-revised-character-basics\n\n- head/heads/human/male/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. original head by Redshrike; tweaks by BenCreating; modular version by bluecarrot16\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-character-bases\n\n- eyes/human/adult/blue.png: by JaidynReiman, Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. original by Redshrike, mapped to all frames by Matthew Krohn & JaidynReiman\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n\n- hair/idol/adult/blonde.png: by thecilekli, bluecarrot16. License(s): CC0. Original CC0 by Thecilekli. Edited by bluecarrot16 and ElizaWy. Animated by ElizaWy.\n    - https://opengameart.org/content/lpc-korean-idol-hairstyle-male-with-12-colors\n    - https://opengameart.org/content/lpc-hair\n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Hair\n\n- torso/aprons/overalls/male/white.png: by ElizaWy, bluecarrot16. License(s): OGA-BY 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-revised-character-basics\n    - http://opengameart.org/content/lpc-clothing-updates\n\n- torso/jacket/collared/male/brown_striped.png: by bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-gentleman\n    - https://opengameart.org/content/lpc-pirates\n\n- backpack/straps/male/black.png: by Benjamin K. Smith (BenCreating), macmanmatty. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-backpacks\n\n- backpack/jetpack/male/gold.png: by Benjamin K. Smith (BenCreating), macmanmatty. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-backpacks\n\n- backpack/jetpack_fins/male/gold.png: by Benjamin K. Smith (BenCreating), macmanmatty. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-backpacks\n\n- torso/waist/belt_leather/male/brown.png: by bluecarrot16, Johannes Sjölund (wulax), Matthew Krohn (makrohn). License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-combat-armor-for-women\n    - https://opengameart.org/content/lpc-pirates\n\n- torso/waist/sash_narrow/male/black.png: by bluecarrot16, Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. \n    - https://opengameart.org/content/more-lpc-clothes-and-hair\n    - https://opengameart.org/content/lpc-pirates\n\n- shield/heater/original/wood/bg/brown.png: by bluecarrot16, Sander Frenken (castelonia), ElizaWy. License(s): OGA-BY 3.0. \n    - https://opengameart.org/content/lpc-shields\n\n- shield/heater/original/wood/fg/brown.png: by bluecarrot16, Sander Frenken (castelonia), ElizaWy. License(s): OGA-BY 3.0. \n    - https://opengameart.org/content/lpc-shields",
+    "layers": [
+      {
+        "fileName": "shadow/adult/shadow.png",
+        "zPos": 0,
+        "parentName": "shadow",
+        "name": "Shadow",
+        "variant": "shadow"
+      },
+      {
+        "fileName": "shield/heater/original/wood/bg/brown.png",
+        "zPos": 2,
+        "parentName": "shield",
+        "name": "Heater Shield Base",
+        "variant": "brown"
+      },
+      {
+        "fileName": "body/bodies/male/light.png",
+        "zPos": 10,
+        "parentName": "body",
+        "name": "Body color",
+        "variant": "light"
+      },
+      {
+        "fileName": "torso/aprons/overalls/male/white.png",
+        "zPos": 38,
+        "parentName": "overalls",
+        "name": "Overalls",
+        "variant": "white"
+      },
+      {
+        "fileName": "torso/jacket/collared/male/brown_striped.png",
+        "zPos": 55,
+        "parentName": "jacket",
+        "name": "Collared coat",
+        "variant": "brown striped"
+      },
+      {
+        "fileName": "torso/waist/sash_narrow/male/black.png",
+        "zPos": 65,
+        "parentName": "sash",
+        "name": "Narrow sash",
+        "variant": "black"
+      },
+      {
+        "fileName": "torso/waist/belt_leather/male/brown.png",
+        "zPos": 70,
+        "parentName": "belt",
+        "name": "Leather Belt",
+        "variant": "brown"
+      },
+      {
+        "fileName": "head/heads/human/male/light.png",
+        "zPos": 100,
+        "parentName": "head",
+        "name": "Human male",
+        "variant": "light"
+      },
+      {
+        "fileName": "eyes/human/adult/blue.png",
+        "zPos": 105,
+        "parentName": "eyes",
+        "name": "Eyes",
+        "variant": "blue"
+      },
+      {
+        "fileName": "backpack/straps/male/black.png",
+        "zPos": 110,
+        "parentName": "backpack_straps",
+        "name": "Straps",
+        "variant": "black"
+      },
+      {
+        "fileName": "backpack/jetpack/male/gold.png",
+        "zPos": 110,
+        "parentName": "backpack",
+        "name": "Jetpack",
+        "variant": "gold"
+      },
+      {
+        "fileName": "shield/heater/original/wood/fg/brown.png",
+        "zPos": 110,
+        "parentName": "shield",
+        "name": "Heater Shield Base",
+        "variant": "brown"
+      },
+      {
+        "fileName": "backpack/jetpack_fins/male/gold.png",
+        "zPos": 112,
+        "parentName": "cargo",
+        "name": "Jetpack fins",
+        "variant": "gold"
+      },
+      {
+        "fileName": "hair/idol/adult/blonde.png",
+        "zPos": 120,
+        "parentName": "hair",
+        "name": "Idol",
+        "variant": "blonde"
+      }
+    ]
+  }
